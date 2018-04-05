@@ -15,3 +15,7 @@ git commit -m "A message describing what you have done to make this snapshot dif
 Commands related to checking status or log history
 git status
 git log
+
+What is the role of HTML in a web page? - how the web page is STRUCTURED
+What is the role of CSS in a web page? -  how it LOOKS 
+What is the role of Javascript in a web page? - how it FUNCTIONS
